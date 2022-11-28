@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Ok7kGGpvdR7h_Aw59v5X" name="Entites">
-        <mxGraphModel dx="1504" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+        <mxGraphModel dx="505" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -65,7 +65,7 @@
                     <mxGeometry x="20" y="10" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="gz_wE2za8BHtSpYVO02--8" value="TRANSACTION DATA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="20" y="110" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
